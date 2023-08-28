@@ -49,5 +49,4 @@ public class PrintExample {
 		System.out.printf("합격률: %.2f%%입니다.\n", rate);
 		// 0f 1f 2f, %% 하면 문자열로 출력 가능
 	}
-
 }
