@@ -9,7 +9,7 @@ public class BooleanExample {
 		
 		//boolean b3 = True; (x)
 		//boolean b4 = False; (X)
-		boolean b5 = 0;
+//		boolean b5 = 0;
 	}
 
 }
